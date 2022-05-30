@@ -1,1 +1,4 @@
-# coder_prfinal_joes
+# Proyecto final
+
+#### equipo <nombre>
+
